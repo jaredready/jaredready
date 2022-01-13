@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋 I'm Jared
+
+#### I'm a cloud engineer and business owner specializing in AWS and Kubernetes. Thanks for visiting my profile 🙇‍♂️
+
+- 🔭 I’m currently working on improving online tutoring with [Varsity Tutors](https://www.varsitytutors.com)!
+- 👯 I’m looking to collaborate on anything interesting! 
+- 💬 Ask me about providing experterise for your AWS needs. I can provide everything from general guidance, to architecture, to implementing complex cloud infrastructures.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun facts: I like to study philosophy, religion, learn languages (the human ones), try to play the guitar, and read books
+
+#### Want to get in touch?
+
+- 📧 [jared@jaredready.com](mailto:jared@jaredready.com) if you just want to chat
+- 📧 [jared@readycloudconsulting.com](mailto:jared@readycloudconsulting.com) for your business's AWS needs.
 
 <!--
 **jaredready/jaredready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
