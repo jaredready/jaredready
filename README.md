@@ -2,7 +2,6 @@
 
 #### I'm a cloud engineer and business owner specializing in AWS and Kubernetes. Thanks for visiting my profile 🙇‍♂️
 
-- 🔭 I’m currently working on improving education with [Varsity Tutors](https://www.varsitytutors.com)!
 - 👯 I’m looking to collaborate on anything interesting! 
 - 💬 Ask me about providing experterise for your AWS needs. I can provide everything from general guidance, to architecture, to implementing complex cloud infrastructures.
 - 😄 Pronouns: He/Him/His
